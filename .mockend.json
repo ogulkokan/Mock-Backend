@@ -1,39 +1,14 @@
 {
-    "ID1": {
-        "name": "Philomena Keats",
-        "lastScan": "01.01.2000",
-        "riskLevel": "low",
-        "warning": "Politically exposed person"
+    "Post": {
+      "title": { "string": {} },
+      "comments": {
+        "hasMany": "Comment"
+      }
     },
-    "ID2": {
-        "name": "John Hogan",
-        "lastScan": "01.01.2000",
-        "riskLevel": "medium",
-        "warning": ""
-    },
-    "ID3": {
-        "name": "Juno Shlyakhter",
-        "lastScan": "01.01.2000",
-        "riskLevel": "high",
-        "warning": "Politically exposed person",
-    },
-    "ID4": {
-        "name": "Apollo Poma",
-        "lastScan": "01.01.2000",
-        "riskLevel": "low",
-        "warning": ""
-    },
-    "ID5": {
-        "name": "Violet Magnolia",
-        "lastScan": "01.01.2000",
-        "riskLevel": "medium",
-        "warning": ""
-    },
-    "ID6": {
-        "id": 1,
-        "name": "Oberon Drake",
-        "lastScan": "01.01.2000",
-        "riskLevel": "medium",
-        "warning": ""
+    "Comment": {
+      "body": { "string": {} },
+      "post": {
+        "belongsTo": "Post"
+      }
     }
-}
+  }
