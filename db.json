@@ -5,42 +5,66 @@
       "name": "Philomena Keats",
       "lastScan": "01.01.2000",
       "riskLevel": "low",
-      "warning": "Politically exposed person"
+      "warning": {
+        "id": 2,
+        "message": "Politically exposed person"
+      },
+      "score": 40
     },
     {
       "id": 2,
       "name": "John Hogan",
       "lastScan": "01.01.2000",
       "riskLevel": "medium",
-      "warning": ""
+      "warning": {
+        "id": 1,
+        "message": ""
+      },
+      "score": 80
     },
     {
       "id": 3,
       "name": "Juno Shlyakhter",
       "lastScan": "01.01.2000",
       "riskLevel": "high",
-      "warning": "Politically exposed person"
+      "warning": {
+        "id": 2,
+        "message": "Politically exposed person"
+      },
+      "score": 30
     },
     {
       "id": 4,
       "name": "Apollo Poma",
       "lastScan": "01.01.2000",
       "riskLevel": "low",
-      "warning": ""
+      "warning": {
+        "id": 1,
+        "message": ""
+      },
+      "score": 55
     },
     {
       "id": 5,
       "name": "Violet Magnolia",
       "lastScan": "01.01.2000",
       "riskLevel": "medium",
-      "warning": ""
+      "warning": {
+        "id": 3,
+        "message": "Risk level changed"
+      },
+      "score": 55
     },
     {
       "id": 6,
       "name": "Oberon Drake",
       "lastScan": "01.01.2000",
       "riskLevel": "medium",
-      "warning": ""
+      "warning": {
+        "id": 1,
+        "message": ""
+      },
+      "score": 80
     }
   ]
 }
