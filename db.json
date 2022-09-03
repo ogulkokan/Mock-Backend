@@ -66,5 +66,299 @@
       },
       "score": 80
     }
+  ],
+
+  "clientDetail": [
+    {
+      "id": 1,
+      "name": "Philomena Keats",
+      "clientSearchHistory": [
+        {
+          "date": "01.01.2000",
+          "riskLevel": 0.4,
+          "score": 55,
+          "user": "Io Murphy"
+        },
+        {
+          "date": "01.01.2000",
+          "riskLevel": 0.4,
+          "score": 55,
+          "user": "Io Murphy"
+        },
+        {
+          "date": "01.01.2000",
+          "riskLevel": 0.4,
+          "score": 55,
+          "user": "Io Murphy"
+        },
+        {
+          "date": "01.01.2000",
+          "riskLevel": 0.4,
+          "score": 55,
+          "user": "Io Murphy"
+        },
+        {
+          "date": "01.01.2000",
+          "riskLevel": 0.4,
+          "score": 55,
+          "user": "Io Murphy"
+        },
+        {
+          "date": "01.01.2000",
+          "riskLevel": 0.4,
+          "score": 55,
+          "user": "Io Murphy"
+        },
+        {
+          "date": "01.01.2000",
+          "riskLevel": 0.4,
+          "score": 55,
+          "user": "Io Murphy"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "John Hogan",
+      "clientSearchHistory": [
+        {
+          "date": "01.01.2000",
+          "riskLevel": 0.5,
+          "score": 45,
+          "user": "Io Murphy"
+        },
+        {
+          "date": "01.01.2000",
+          "riskLevel": 0.3,
+          "score": 35,
+          "user": "Io Murphy"
+        },
+        {
+          "date": "01.01.2000",
+          "riskLevel": 0.2,
+          "score": 75,
+          "user": "Io Murphy"
+        },
+        {
+          "date": "01.01.2000",
+          "riskLevel": 0.3,
+          "score": 65,
+          "user": "Io Murphy"
+        },
+        {
+          "date": "01.01.2000",
+          "riskLevel": 0.1,
+          "score": 95,
+          "user": "Io Murphy"
+        },
+        {
+          "date": "01.01.2000",
+          "riskLevel": 0.2,
+          "score": 85,
+          "user": "Io Murphy"
+        },
+        {
+          "date": "01.01.2000",
+          "riskLevel": 0.2,
+          "score": 90,
+          "user": "Io Murphy"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Juno Shlyakhter",
+      "clientSearchHistory": [
+        {
+          "date": "01.01.2000",
+          "riskLevel": 0.4,
+          "score": 55,
+          "user": "Io Murphy"
+        },
+        {
+          "date": "01.01.2000",
+          "riskLevel": 0.3,
+          "score": 35,
+          "user": "Io Murphy"
+        },
+        {
+          "date": "01.01.2000",
+          "riskLevel": 0.2,
+          "score": 75,
+          "user": "Io Murphy"
+        },
+        {
+          "date": "01.01.2000",
+          "riskLevel": 0.3,
+          "score": 65,
+          "user": "Io Murphy"
+        },
+        {
+          "date": "01.01.2000",
+          "riskLevel": 0.1,
+          "score": 95,
+          "user": "Io Murphy"
+        },
+        {
+          "date": "01.01.2000",
+          "riskLevel": 0.2,
+          "score": 85,
+          "user": "Io Murphy"
+        },
+        {
+          "date": "01.01.2000",
+          "riskLevel": 0.2,
+          "score": 90,
+          "user": "Io Murphy"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Apollo Roma",
+      "clientSearchHistory": [
+        {
+          "date": "01.01.2000",
+          "riskLevel": 0.4,
+          "score": 55,
+          "user": "Io Murphy"
+        },
+        {
+          "date": "01.01.2000",
+          "riskLevel": 0.3,
+          "score": 35,
+          "user": "Io Murphy"
+        },
+        {
+          "date": "01.01.2000",
+          "riskLevel": 0.2,
+          "score": 75,
+          "user": "Io Murphy"
+        },
+        {
+          "date": "01.01.2000",
+          "riskLevel": 0.3,
+          "score": 65,
+          "user": "Io Murphy"
+        },
+        {
+          "date": "01.01.2000",
+          "riskLevel": 0.1,
+          "score": 95,
+          "user": "Io Murphy"
+        },
+        {
+          "date": "01.01.2000",
+          "riskLevel": 0.2,
+          "score": 85,
+          "user": "Io Murphy"
+        },
+        {
+          "date": "01.01.2000",
+          "riskLevel": 0.2,
+          "score": 90,
+          "user": "Io Murphy"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Violet Magnolia",
+      "clientSearchHistory": [
+        {
+          "date": "01.01.2000",
+          "riskLevel": 0.4,
+          "score": 55,
+          "user": "Io Murphy"
+        },
+        {
+          "date": "01.01.2000",
+          "riskLevel": 0.3,
+          "score": 35,
+          "user": "Io Murphy"
+        },
+        {
+          "date": "01.01.2000",
+          "riskLevel": 0.2,
+          "score": 75,
+          "user": "Io Murphy"
+        },
+        {
+          "date": "01.01.2000",
+          "riskLevel": 0.3,
+          "score": 65,
+          "user": "Io Murphy"
+        },
+        {
+          "date": "01.01.2000",
+          "riskLevel": 0.1,
+          "score": 95,
+          "user": "Io Murphy"
+        },
+        {
+          "date": "01.01.2000",
+          "riskLevel": 0.2,
+          "score": 85,
+          "user": "Io Murphy"
+        },
+        {
+          "date": "01.01.2000",
+          "riskLevel": 0.2,
+          "score": 90,
+          "user": "Io Murphy"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Oberon Drake",
+      "clientSearchHistory": [
+        {
+          "date": "01.01.2000",
+          "riskLevel": 0.4,
+          "score": 55,
+          "user": "Io Murphy"
+        },
+        {
+          "date": "01.01.2000",
+          "riskLevel": 0.3,
+          "score": 35,
+          "user": "Io Murphy"
+        },
+        {
+          "date": "01.01.2000",
+          "riskLevel": 0.2,
+          "score": 75,
+          "user": "Io Murphy"
+        },
+        {
+          "date": "01.01.2000",
+          "riskLevel": 0.3,
+          "score": 65,
+          "user": "Io Murphy"
+        },
+        {
+          "date": "01.01.2000",
+          "riskLevel": 0.1,
+          "score": 95,
+          "user": "Io Murphy"
+        },
+        {
+          "date": "01.01.2000",
+          "riskLevel": 0.2,
+          "score": 85,
+          "user": "Io Murphy"
+        },
+        {
+          "date": "01.01.2000",
+          "riskLevel": 0.2,
+          "score": 90,
+          "user": "Io Murphy"
+        }
+      ]
+    }
   ]
 }
+
+
+
